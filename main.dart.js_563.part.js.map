@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_563.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../Documents/flutter/flutter_v3.3.2/packages/flutter/lib/src/widgets/basic.dart","../../../../../../Documents/flutter/flutter_v3.3.2/packages/flutter/lib/src/rendering/stack.dart","../../../../../../Documents/flutter/flutter_v3.3.2/packages/flutter/lib/src/rendering/object.dart","../../../../../../Documents/flutter/flutter_v3.3.2/packages/flutter/lib/src/rendering/box.dart"],
+  "names": ["IndexedStack","RenderIndexedStack.visitChildrenForSemantics","RenderIndexedStack._childAtIndex","RenderIndexedStack.hitTestChildren","RenderIndexedStack.paintStack","IndexedStack.createRenderObject","RenderIndexedStack","RenderStack","RenderObject","IndexedStack.updateRenderObject","RenderIndexedStack.hitTestChildren.<anonymous function>","","index","firstChild","_clipRectLayer","_RenderStack&RenderBox&ContainerRenderObjectMixin&RenderBoxContainerDefaultsMixin","_RenderStack&RenderBox&ContainerRenderObjectMixin","RenderBox","_layerHandle"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA8zHEA;sCAOgBA,IA3HhBA,UAoHAA,AAOuBA,C;;;;;;;;;;;;;ECrnGlBC,WAOaA,eCqkGWA,UD1kGzBA,KAAQA,UAEZA,C;EAYUC,eC4jGmBA,gBDrkGXA;AAahBA,uBAAiCA;AAATA,WAAxBA;;GACgDA;CAAUA;AAAEA,QAClCA,IACxBA,KAIUA;AAAZA,QACFA,C;EAGKC,MACHA;OC4iG2BA,eDrkGXA,UA0BdA,QAaJA;AAV0BA;GACsBA;CAAUA;AAAEA;AAC1DA,OAAOA,KAGIA,kBAFeA,KAO5BA,C;EAGKC,MACHA;OC0hG2BA,eDrkGXA,UA4CdA,MAKJA;AAH0BA;GACsBA;CAAUA;AACxDA,OAD0DA,QAChBA,GAAOA,OACnDA,C;;EDmkGmBC,IAKgCA;ACxoGnDA,eDsoGWA,OACIA,MCt+GHC,IACSA,GAuT6BC,mBCqqDDC;AD9nDjDF;AA7VEC;ADk+GAF,QAKFA,C;EAGKI,gBAGSA;IC9nGRA,SACFA;AACAA,MD6nGEA,UAAYA;AACoCA;AAAhDA,QACNA,C;;AChmGaC;EAFAA,MAEPA,WAAOA,UACRA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "kmBAq0HOWU;oKCpnGCCe;AAAiBCU;mCAiBFAgB;AAESDQ;2IAYxBCe;AAAsBDU;4GAkBtBCe;AAAsBDU;sGD2kGnBDe;aAAAAACroGTAOAvCkDGmB,AAnUlDHAAPIAAAAAAAEkgCSAAD6+BoCOQ,A,A,A,A,A,AAl/BjDPO,ADt/BAAAA0WAAa,A,A;oCDgpGMCqB;"
+  }
+}
